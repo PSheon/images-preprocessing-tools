@@ -14,7 +14,7 @@
 
 # production
 /build
-/procesing/*
+/processing/*
 /output/*
 
 
