@@ -18,5 +18,9 @@
   "devDependencies": {
     "nodemon": "^2.0.22",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "ora": "^3.4.0"
   }
 }
