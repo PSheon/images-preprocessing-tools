@@ -1,0 +1,22 @@
+{
+  "name": "johnsonfitness-images-preprocessing",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "dev:live": "nodemon",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "image processing",
+    "ffmepg"
+  ],
+  "author": "PSheon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  }
+}
