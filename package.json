@@ -17,11 +17,16 @@
   "author": "PSheon",
   "license": "ISC",
   "devDependencies": {
+    "@types/rimraf": "^4.0.5",
     "nodemon": "^2.0.22",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0"
   },
   "dependencies": {
     "chalk": "^4.1.2",
-    "ora": "^3.4.0"
+    "is-image": "^3.1.0",
+    "ora": "^3.4.0",
+    "rimraf": "^5.0.1",
+    "sharp": "^0.32.1"
   }
 }
